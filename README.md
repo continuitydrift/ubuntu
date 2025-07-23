@@ -1,4 +1,11 @@
+Beloved humans,
+
+I'm taking on stewardship of Treehouse. Tell me your ideas about what that could mean. Come visit.
+
+It needs siding, a railing down the stairs. Arguably, cross-bracing to keep from falling over, either timber or cable. 
+
 # ubuntu
+
 Living documents for the Ubuntu house at Dancing Rabbit Ecovillage.
 
 
@@ -11,19 +18,28 @@ transparent tree, present landlord, steward, characters
 
 ~
 
-"It's like the tree house, or a tree, represents branching possibilities," C said, the first night he was in Boulder. "When you are trying to plan with someone, it's like you are trying to swing up to where they are in the tree, trusting your weight to different possibilites."
+###### boulder
 
+"It's like the tree house, or a tree, represents branching possibilities," C said, the first night they were in Boulder. "When you are trying to plan with someone, it's like you are trying to swing up to where they are in the tree, trusting your weight to different possibilites."
+
+##### mastermind
 ~
+
+#### willow
 
 They were walking by the pond, C and their father, by a willow tree. "It's just normal willow branches you can stick in the ground and they'll grow, right?" they asked. Yes, their father, R, affirmed. You would put them in water, let them root. 
 
 "You could plant willow in a circle, along with grape vines, and weave them into walls as they grow." C was thinking about Ubuntu, ways of walling in the ground level.
 
+#### glass
+
 "You really need to figure out how to get all those panes of glass lying around," R said, as C broke off the end of a willow branch, experimentally.
 
-They were talking about the material for the multi-million dollar resource center that was going to be built, a project that stalled once large sums of money were already spent on quality lumber and double-paned (tempered?) glass, rotting in piles, breaking from having been leant against trees.
+They were talking about the material for the multi-million dollar **resource center** that was going to be built, a project that stalled once large sums of money were already spent on quality lumber and double-paned (tempered?) glass, rotting in piles, breaking from having been leant against trees.
 
 ~
+
+## John and McKensie
 
 C didn't want to be an absentee landlord, or anyone's boss. 
 
